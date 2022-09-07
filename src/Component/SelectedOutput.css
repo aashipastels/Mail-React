@@ -1,0 +1,21 @@
+.selectedOutputDivision{
+    flex: 5 1 0;
+    height: 700px;
+    border-right: 2px lightblue solid;
+}
+.outputBox1{
+    border: 1px solid lightgray;
+    box-shadow: 1rem;
+    padding: 5px;
+}
+.outputBox2{
+    border: 1px solid lightslategray;
+    margin: 0 10px;
+    padding: 10px;
+}
+.button{
+    color: steelblue;
+    margin: 10px;
+    width: 80px;
+    padding: 2px;
+}

@@ -1,0 +1,13 @@
+.outputDivision{
+    flex: 2 1 0;
+    height: 700px;
+    border-right: 2px lightblue solid;
+}   
+.outputDiv1{
+    display: flex;
+    flex-direction: row;
+
+}
+.outputDiv2{
+    margin: 10px 10px;
+}

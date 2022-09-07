@@ -1,0 +1,29 @@
+.folderdivision{
+    flex: 1 1 0;
+    height: 700px;
+    
+    border-right: 2px lightblue solid;
+
+}
+.folderInsideDiv{
+    width: 80%;
+    margin: 5px auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+.folder{
+    color: darkgray;
+    font-size: large;
+}
+.folderLink{
+    list-style: none;
+    color: gray;
+    margin: 2px;
+   
+}
+.eachfolder{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    justify-content: space-between;
+}
